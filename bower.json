@@ -1,0 +1,17 @@
+{
+  "name": "angular-fontawesome-index",
+  "main": "index.js",
+  "version": "0.1.0",
+  "authors": [
+    "Victor Perron <victor@iso3103.net>"
+  ],
+  "description": "Maps font awesome class names to their unicode counterparts.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
